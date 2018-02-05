@@ -442,7 +442,7 @@
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.jdbc.Driver</jdbc.driverClassName>
                 <jdbc.url>jdbc:mysql://mysqlserverdemo.mysql.database.azure.com:3306/tododb?verifyServerCertificate=true&useSSL=true&requireSSL=false</jdbc.url>
-                <jdbc.username>mysqldbuser</jdbc.username>
+                <jdbc.username>mysqldbuser@mysqlserverdemo</jdbc.username>
                 <jdbc.password>YUVanika!234</jdbc.password>
             </properties>
             <dependencies>
